@@ -2,7 +2,7 @@
 /*
 Plugin Name: single_page_search
 Plugin URI: helongquanss.github.io
-Description: this is use to be top top in website.
+Description: 这个插件就是为了解决单页文字或者产品的搜索，使用了ajax
 Author: HLQ
 Author URI: helongquanss.github.io
 Version: 1.0
